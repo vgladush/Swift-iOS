@@ -15,7 +15,7 @@
 		<td align="center"><a href="https://github.com/Dude-Rocker/resources/blob/master/piscine_swift-ios/d00.pdf">Day 00</a></td>
 		<td align="center">5</td>
 		<td align="center">5</td>
-		<td rowspan="12" align="center"><img src="https://github.com/Dude-Rocker/resources/blob/master/img/clear_piscine.png" alt="total result"></td>
+		<td rowspan="12" align="center"><img src="https://github.com/Dude-Rocker/resources/blob/master/piscine_swift-ios/swift_ios.png" alt="total result"></td>
 	</tr>
 	<tr>
 		<td align="center"><a href="https://github.com/Dude-Rocker/resources/blob/master/piscine_swift-ios/d01.pdf">Day 01</a></td>
