@@ -1,0 +1,16 @@
+PODS:
+  - vgladush2018 (0.1.0)
+
+DEPENDENCIES:
+  - vgladush2018 (from `../`)
+
+EXTERNAL SOURCES:
+  vgladush2018:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  vgladush2018: 6e48d6e87e89379ff6604c10f1d9306ec25ee8be
+
+PODFILE CHECKSUM: e97caa29e7a4064e5084b03c070be07d25e10e96
+
+COCOAPODS: 1.5.3

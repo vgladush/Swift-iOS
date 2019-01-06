@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'vgladush2018_Example' do
+  pod 'vgladush2018', :path => '../'
+
+  target 'vgladush2018_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
