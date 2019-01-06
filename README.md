@@ -12,63 +12,63 @@
 		<th align="center">Total</th>
 	</tr>
 	<tr>
-		<td align="center"><a href="https://github.com/Dude-Rocker/resources/blob/master/Swift-iOS/d00.pdf">Day 00</a></td>
+		<td align="center"><a href="https://github.com/Dude-Rocker/resources/blob/master/piscine_swift-ios/d00.pdf">Day 00</a></td>
 		<td align="center">5</td>
 		<td align="center">5</td>
 		<td rowspan="12" align="center"><img src="https://github.com/Dude-Rocker/resources/blob/master/img/clear_piscine.png" alt="total result"></td>
 	</tr>
 	<tr>
-		<td align="center"><a href="https://github.com/Dude-Rocker/resources/blob/master/Swift-iOS/d01.pdf">Day 01</a></td>
+		<td align="center"><a href="https://github.com/Dude-Rocker/resources/blob/master/piscine_swift-ios/d01.pdf">Day 01</a></td>
 		<td align="center">5</td>
 		<td align="center">5</td>
 	</tr>
 	<tr>
-		<td align="center"><a href="https://github.com/Dude-Rocker/resources/blob/master/Swift-iOS/d02.pdf">Day 02</a></td>
+		<td align="center"><a href="https://github.com/Dude-Rocker/resources/blob/master/piscine_swift-ios/d02.pdf">Day 02</a></td>
 		<td align="center">6</td>
 		<td align="center">6</td>
 	</tr>
 	<tr>
-		<td align="center"><a href="https://github.com/Dude-Rocker/resources/blob/master/Swift-iOS/d03.pdf">Day 03</a></td>
+		<td align="center"><a href="https://github.com/Dude-Rocker/resources/blob/master/piscine_swift-ios/d03.pdf">Day 03</a></td>
 		<td align="center">5</td>
 		<td align="center">5</td>
 	</tr>
 	<tr>
-		<td align="center"><a href="https://github.com/Dude-Rocker/resources/blob/master/Swift-iOS/d04.pdf">Day 04</a></td>
-		<td align="center">0</td>
-		<td align="center">?</td>
+		<td align="center"><a href="https://github.com/Dude-Rocker/resources/blob/master/piscine_swift-ios/d04.pdf">Day 04</a></td>
+		<td align="center">2</td>
+		<td align="center">6</td>
 	</tr>
 	<tr>
-		<td align="center"><a href="https://github.com/Dude-Rocker/resources/blob/master/Swift-iOS/rush00.pdf">Rush00</a></td>
+		<td align="center"><a href="https://github.com/Dude-Rocker/resources/blob/master/piscine_swift-ios/rush00.pdf">Rush00</a></td>
 		<td align="center">0</td>
 		<td align="center">1</td>
 	</tr>
 	<tr>
-		<td align="center"><a href="https://github.com/Dude-Rocker/resources/blob/master/Swift-iOS/d05.pdf">Day 05</a></td>
-		<td align="center">?</td>
-		<td align="center">?</td>
+		<td align="center"><a href="https://github.com/Dude-Rocker/resources/blob/master/piscine_swift-ios/d05.pdf">Day 05</a></td>
+		<td align="center">4</td>
+		<td align="center">7</td>
 	</tr>
 	<tr>
-		<td align="center"><a href="https://github.com/Dude-Rocker/resources/blob/master/Swift-iOS/d06.pdf">Day 06</a></td>
+		<td align="center"><a href="https://github.com/Dude-Rocker/resources/blob/master/piscine_swift-ios/d06.pdf">Day 06</a></td>
 		<td align="center">3</td>
 		<td align="center">4</td>
 	</tr>
 	<tr>
-		<td align="center"><a href="https://github.com/Dude-Rocker/resources/blob/master/Swift-iOS/d07.pdf">Day 07</a></td>
+		<td align="center"><a href="https://github.com/Dude-Rocker/resources/blob/master/piscine_swift-ios/d07.pdf">Day 07</a></td>
+		<td align="center">0</td>
+		<td align="center">5</td>
+	</tr>
+	<tr>
+		<td align="center"><a href="https://github.com/Dude-Rocker/resources/blob/master/piscine_swift-ios/d08.pdf">Day 08</a></td>
+		<td align="center">?</td>
+		<td align="center">?</td>
+	</tr>
+	<tr>
+		<td align="center"><a href="https://github.com/Dude-Rocker/resources/blob/master/piscine_swift-ios/d09.pdf">Day 09</a></td>
 		<td align="center">0</td>
 		<td align="center">?</td>
 	</tr>
 	<tr>
-		<td align="center"><a href="https://github.com/Dude-Rocker/resources/blob/master/Swift-iOS/d08.pdf">Day 08</a></td>
-		<td align="center">?</td>
-		<td align="center">?</td>
-	</tr>
-	<tr>
-		<td align="center"><a href="https://github.com/Dude-Rocker/resources/blob/master/Swift-iOS/d09.pdf">Day 09</a></td>
-		<td align="center">0</td>
-		<td align="center">?</td>
-	</tr>
-	<tr>
-		<td align="center"><a href="https://github.com/Dude-Rocker/resources/blob/master/Swift-iOS/rush01.pdf">Rush01</a></td>
+		<td align="center"><a href="https://github.com/Dude-Rocker/resources/blob/master/piscine_swift-ios/rush01.pdf">Rush01</a></td>
 		<td align="center">1</td>
 		<td align="center">1</td>
 	</tr>
